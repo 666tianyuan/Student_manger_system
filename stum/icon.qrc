@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="6">icon/OIP-C (2).jpg</file>
+        <file alias="5">icon/OIP-C (3).jpg</file>
+        <file alias="4">icon/OIP-C (6).jpg</file>
+        <file alias="3">icon/OIP-C (7).jpg</file>
+        <file alias="2">icon/OIP-C (9).jpg</file>
+        <file alias="1">icon/p1.jpg</file>
+    </qresource>
+</RCC>
